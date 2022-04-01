@@ -48,6 +48,7 @@ The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses al
 
 ### Day 2:
 
+
 9:30		Recap day one and HomeWork 
 
 9:45		OpenShift Data Foundation in Hybrid clouds - HA and DR Options
