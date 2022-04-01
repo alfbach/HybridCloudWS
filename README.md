@@ -39,8 +39,9 @@ The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses al
 
 15:15		Intro into LAB / HomeWork
 
-		Red Hat Advanced Cluster Management for Kubernetes for technical Sales
-		(2 Hours)
+		Red Hat Advanced Cluster Management for Kubernetes for technical Sales (2 Hours)
+		
+		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44754751
 
 15:30		Start HomeWork
 
@@ -67,9 +68,9 @@ The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses al
 
 14:30		Intro into optional HomeWork / Certification
 
-		Red Hat OpenShift Data Foundation for technical Sales 
+		Red Hat OpenShift Data Foundation for technical Sales (2 Hours)
 
-		(2 Hours)	
+		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599	
 
 14:45		Q & A next steps and closing
 
