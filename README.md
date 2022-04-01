@@ -49,9 +49,7 @@ The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses al
 
 9:30		Recap day one and HomeWork 
 
-9:45		OpenShift Data Foundation in Hybrid clouds 
-
-			HA and DR Options
+9:45		OpenShift Data Foundation in Hybrid clouds - HA and DR Options
 
 10:30		Installing Open Data Foundation Live on 2nd Cluster
 
@@ -65,9 +63,7 @@ The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses al
 
 13:00		Application management for the Hybrid Cloud
 
-13:45 		Networking technologies that will work 
-
-		with the challenges of Open Hybrid Cloud Solutions
+13:45 		Networking technologies that will work with the challenges of Open Hybrid Cloud Solutions
 
 14:30		Intro into optional HomeWork / Certification
 
