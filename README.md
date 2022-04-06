@@ -39,9 +39,9 @@ The workshop is based on Red Hat's Open Hybrid Cloud initiative and addresses al
 
 15:15		Intro into LAB / HomeWork
 
-		Red Hat Advanced Cluster Management for Kubernetes for technical Sales (2 Hours)
+		Red Hat Advanced Cluster Management for Kubernetes
 		
-		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44754751
+		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
 
 15:30		Start HomeWork
 
