@@ -6,7 +6,7 @@
 
 ## https://www.menti.com/b9a8cuw2co
 
-Mai 2022
+June 2022
 
 The purpose of this workshop is to show attendees the benefits of Red Hat ´ Open Hybrid Cloud architecture. Based on actual use cases the attendees will get insight into how to architect and build cloud solutions scaling from the on-premise environments out to geographical distributed public cloud environments.
 
