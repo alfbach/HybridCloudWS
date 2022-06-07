@@ -4,7 +4,7 @@
 # Red Hat Open Hybrid Cloud Architecture Workshop
 ## remote version
 
-## https://www.menti.com/b9a8cuw2co
+## https://www.menti.com/4xsftugb2m
 
 June 2022
 
