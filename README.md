@@ -4,6 +4,8 @@
 # Red Hat Open Hybrid Cloud Architecture Workshop
 ## remote version
 
+## BJ Link https://bluejeans.com/596410167/5220
+
 ## https://www.menti.com/4xsftugb2m
 
 June 2022
